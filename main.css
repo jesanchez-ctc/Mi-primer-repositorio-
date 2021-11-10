@@ -1,0 +1,42 @@
+body{
+    
+    background:url(https://s1.1zoom.me/b5050/444/Seasons_Autumn_Roads_Trees_Foliage_532160_2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+
+    font-family: sans-serif;
+  
+    
+}
+nav{
+    /*outline: 1px solid brown;*/
+}
+ul{
+    /*outline: 1px solid blue;*/
+    line-height: 40px;
+    padding: 0;
+    margin: 0;
+    background-color: #2e2e2a;
+    line-height: 40px;
+    overflow: auto;
+
+}
+li{
+    /*outline: 1px solid green;*/
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+}
+a{
+    /*outline: 1px solid blueviolet;*/
+    text-decoration: none;
+    display: inline-block;
+    color: #fff;
+}
+a:hover{
+    background-color: #f9a91a;
+    color: #000;
+}
